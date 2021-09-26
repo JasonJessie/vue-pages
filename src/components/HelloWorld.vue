@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
-    <h1>Vue deploy test again!!</h1>
+    <h1>Vue fb messenger test again!!</h1>
+    <div id="fb-root"></div>
   </div>
 </template>
 
