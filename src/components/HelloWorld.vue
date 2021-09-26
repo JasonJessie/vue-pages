@@ -1,7 +1,12 @@
 <template>
   <div class="hello">
-    <h1>Vue fb messenger test again!!</h1>
+    <h1>Vue fb messenger test!!</h1>
+    <!-- Messenger 洽談外掛程式 Code -->
     <div id="fb-root"></div>
+
+    <!-- Your 洽談外掛程式 code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
   </div>
 </template>
 
