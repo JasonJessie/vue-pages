@@ -1,6 +1,3 @@
-import Vue from 'vue'
-import VueFbCustomerChat from 'vue-fb-customer-chat'
-
 Vue.use(VueFbCustomerChat, {
     page_id: "276309370870035", // 輸入 Facebook Page ID,
     theme_color: '#6699cc', // 設定messenger顏色

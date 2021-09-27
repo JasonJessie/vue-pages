@@ -1,3 +1,4 @@
+function implementFB() {  
   var chatbox = document.getElementById('fb-customer-chat');
   chatbox.setAttribute("page_id", "276309370870035");
   chatbox.setAttribute("attribution", "biz_inbox");
@@ -16,3 +17,5 @@
     js.src = 'https://connect.facebook.net/zh_TW/sdk/xfbml.customerchat.js';
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));
+}
+export {implementFB}
