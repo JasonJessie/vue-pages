@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Vue fb messenger test!! 1.5 from component</h1>
+    <h1>Vue fb messenger test!! 1.6 from component</h1>
     <Messenger />
   </div>
 </template>
